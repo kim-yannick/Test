@@ -7,3 +7,4 @@ Baz
 
 Foo
 Bar
+Baz
