@@ -6,3 +6,4 @@ Bar
 Baz
 
 Foo
+Bar
