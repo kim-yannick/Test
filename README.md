@@ -15,3 +15,4 @@ Baz
 
 Foo
 Bar
+Baz
