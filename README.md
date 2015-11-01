@@ -26,3 +26,4 @@ Bar
 Baz
 
 Foo
+Bar
