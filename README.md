@@ -18,3 +18,4 @@ Bar
 Baz
 
 Foo
+Bar
