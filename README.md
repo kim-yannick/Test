@@ -22,3 +22,4 @@ Bar
 Baz
 
 Foo
+Bar
