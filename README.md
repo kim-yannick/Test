@@ -19,3 +19,4 @@ Baz
 
 Foo
 Bar
+Baz
